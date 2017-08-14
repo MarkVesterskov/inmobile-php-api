@@ -9,7 +9,7 @@ The API is the same as the regular API found on the Developer page on your InMob
 ## Installation
 
 ```
-composer install MarkVesterskov\inmobile-php-api
+composer require MarkVesterskov\inmobile-php-api
 ```
 
 ## Usage

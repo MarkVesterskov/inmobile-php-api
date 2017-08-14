@@ -1,0 +1,20 @@
+{
+    "name": "markvesterskov/inmobile-php-api",
+    "description": "Port of the InMobile PHP Api to use in Composer",
+    "authors": [
+        {
+            "name": "Mark Vesterskov",
+            "email": "mark@48k.dk"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "MarkVesterskov\\InmobilePHPApi": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

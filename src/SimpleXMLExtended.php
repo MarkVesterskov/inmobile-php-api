@@ -2,7 +2,7 @@
 
 namespace MarkVesterskov\InmobilePHPApi;
 
-class SimpleXMLExtended extends SimpleXMLElement 
+class SimpleXMLExtended extends \SimpleXMLElement 
 { 
 	public function addCData($cdata_text)
 	{ 
